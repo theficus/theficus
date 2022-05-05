@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new programming languages and technology
 - 🌱 I’m currently learning embedded programming, reverse engineering, robotics
 - 💞️ I’m looking to collaborate on whatever
-- 📫 How to reach me: @adammeltzer (Twitter)
+- 📫 How to reach me: [@adammeltzer](https://twitter.com/adammeltzer) or here.
 
 <!---
 theficus/theficus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
